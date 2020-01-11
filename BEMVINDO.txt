@@ -4,4 +4,6 @@ Adicionei uma linha aqui.
 
 E outra linha aqui.
 
-E mais uma
+E mais uma.
+
+E essa veio do master.
