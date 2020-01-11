@@ -1,0 +1,6 @@
+Olá, isso é um teste.
+
+Esse teste foi realizado durante o workshop de Git da Conecta Ijuí.
+
+Até mais!
+
