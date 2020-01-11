@@ -1,5 +1,0 @@
-Bem vindo ao Workshop Git!
-
-Adicionei uma linha aqui.
-
-E outra linha aqui.
